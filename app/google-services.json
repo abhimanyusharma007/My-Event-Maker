@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "92303906698",
+    "firebase_url": "https://myeventticket-e36d1.firebaseio.com",
+    "project_id": "myeventticket-e36d1",
+    "storage_bucket": "myeventticket-e36d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92303906698:android:015b34fa96036818",
+        "android_client_info": {
+          "package_name": "com.example.myeventmaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92303906698-vbqvvcu3qkiu1p7s79loa1e1ab8edi53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myeventmaker",
+            "certificate_hash": "b6411ce1df75ea165cf15f7efc803c54d5e5f3a1"
+          }
+        },
+        {
+          "client_id": "92303906698-niip1tvvon44i1moqu00sa5gdndumj3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwUxMfrh-DIMgV7bF_aF-jEAsjigVhz70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92303906698-niip1tvvon44i1moqu00sa5gdndumj3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92303906698:android:4916bf73ff1bc89d",
+        "android_client_info": {
+          "package_name": "com.example.myeventtickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92303906698-9j855qrb0817466ej9n37vqlkkbs5ugq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myeventtickets",
+            "certificate_hash": "b6411ce1df75ea165cf15f7efc803c54d5e5f3a1"
+          }
+        },
+        {
+          "client_id": "92303906698-niip1tvvon44i1moqu00sa5gdndumj3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwUxMfrh-DIMgV7bF_aF-jEAsjigVhz70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92303906698-niip1tvvon44i1moqu00sa5gdndumj3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

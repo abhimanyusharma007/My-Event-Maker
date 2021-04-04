@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Event Maker</string>
+    <string name="extended_fab_lablel">ADD EVENT</string>
+</resources>
